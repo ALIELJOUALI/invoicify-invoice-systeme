@@ -1,7 +1,7 @@
 # invoicify-invoice-systeme
 Unlock Efficiency with Invoicify - Your Smart Invoice System
 
-![Invoicify](https://github.com/user-attachments/assets/d6902f70-7ec4-48c9-a81a-ae32c1494026)
+![Invoicify](https://github.com/user-attachments/assets/0ff5d842-3a81-4441-86ff-a5829eaba94d)
 
 
 # Welcome to Invoicify, 
