@@ -4,7 +4,7 @@ Unlock Efficiency with Invoicify - Your Smart Invoice System
 ![Invoicify](https://github.com/user-attachments/assets/0ff5d842-3a81-4441-86ff-a5829eaba94d)
 
 
-# Welcome to Invoicify baby, 
+# Welcome to Invoicify, 
 
 Our Invoice System - the ultimate solution to streamline your business operations and revolutionize your invoicing process. 
 Say goodbye to manual calculations, tedious paperwork, and long hours spent managing invoices. Our system offers an intuitive and efficient user-friendly interface, 
