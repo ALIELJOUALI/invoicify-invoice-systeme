@@ -8,7 +8,7 @@ Unlock Efficiency with Invoicify - Your Smart Invoice System
 # Welcome to Invoicify, 
 
 Our Invoice System - the ultimate solution to streamline your business operations and revolutionize your invoicing process. 
-Say goodbye to manual calculations, tedious paperwork,and long hours spent managing invoices.
+Say goodbye to manual calculations, tedious paperwork,And long hours spent managing invoices.
 
 Our system offers an intuitive and efficient user-friendly interface, 
 Allowing you to create, send, and track invoices effortlessly. Rest assured, our Invoice System prioritizes security, 
